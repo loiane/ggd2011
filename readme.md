@@ -1,6 +1,8 @@
-# Respostas da Provinha de Programação - Google Developer Day Brasil 2011
+# Respostas da Provinha de Programa√ß√£o - Google Developer Day Brasil 2011
 
-## Post - Blog - Explicações
+* https://developerquiz.appspot.com/?lang=pt
+
+## Post - Blog - Explica√ß√µes
 
 * comming soon
 
