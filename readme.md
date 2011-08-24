@@ -4,7 +4,7 @@
 
 ## Post - Blog - Explicações
 
-* comming soon
+* http://www.loiane.com/2011/08/a-provinha-de-programacao-google-developer-day-brasil-2011-solucao-em-java
 
 ## Mais tutoriais
 
